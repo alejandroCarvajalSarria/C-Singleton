@@ -1,0 +1,6 @@
+/Users/alek/Documents/Developing/C#/widetech_1/widetech_1/bin/Debug/widetech_1.exe
+/Users/alek/Documents/Developing/C#/widetech_1/widetech_1/bin/Debug/widetech_1.pdb
+/Users/alek/Documents/Developing/C#/widetech_1/widetech_1/obj/Debug/widetech_1.csprojAssemblyReference.cache
+/Users/alek/Documents/Developing/C#/widetech_1/widetech_1/obj/Debug/widetech_1.csproj.CoreCompileInputs.cache
+/Users/alek/Documents/Developing/C#/widetech_1/widetech_1/obj/Debug/widetech_1.exe
+/Users/alek/Documents/Developing/C#/widetech_1/widetech_1/obj/Debug/widetech_1.pdb
